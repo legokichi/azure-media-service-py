@@ -1,0 +1,21 @@
+[[source]]
+
+name = "pypi"
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+azure-mgmt-resource = "*"
+azure-mgmt-datalake-store = "*"
+azure-datalake-store = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.5"
